@@ -3,5 +3,5 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <title>arrow-down</title>
-<path d="M16.8,9.6L12,16.8L7.2,9.6C7.2,9.6,16.8,9.6,16.8,9.6z"/>
+<path d="M17,9l-5,8L7,9H17z"/>
 </svg>
